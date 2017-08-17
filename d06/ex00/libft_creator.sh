@@ -1,0 +1,3 @@
+#!/bin/sh
+
+$(gcc -Wextra -Wall -Werror -c ft_atoi.c ft_atoi_base.c ft_print_memory.c ft_putchar.c ft_putnbr.c ft_putnbr_base.c ft_putstr.c ft_putstr_non_printable.c ft_str_is_alpha.c ft_str_is_lowercase.c ft_str_is_numeric.c ft_str_is_printable.c ft_str_is_uppercase.c ft_strcapitalize.c ft_strcat.c ft_strcmp.c ft_strcpy.c ft_strlcat.c ft_strlcpy.c ft_strlen.c ft_strlowcase.c ft_strncat.c ft_strcmp.c ft_strncpy.c ft_strstr.c ft_strupcase.c ft_swap.c ; ar rc libft.a ft_*.o ; ranlib libft.a ; rm -rf ft_*.o)
