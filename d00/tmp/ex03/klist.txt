@@ -1,0 +1,6 @@
+Credentials cache: API:5190
+        Principal: pgritsen@UNIT.UA
+
+  Issued                Expires               Principal
+Jul 25 08:58:09 2017  Jul 25 18:58:09 2017  krbtgt/UNIT.UA@UNIT.UA
+Jul 25 09:16:58 2017  Jul 25 18:58:09 2017  host/vogsphere-2.unit.ua@UNIT.UA
